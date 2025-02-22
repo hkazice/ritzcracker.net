@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - RITZ Crackers Official Online Website</title>
+						<title>Locations Sitemap - RITZ Crackers Premium Online Website</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - RITZ Crackers Official Online Website</title>
+						<title>XML Sitemap - RITZ Crackers Premium Online Website</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
